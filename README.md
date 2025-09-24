@@ -25,4 +25,4 @@ Make sure you have the Java Development Kit (JDK) installed on your system. Open
 To compile the code, use the following command:
 
 ```bash
-javac BankingApplication.java
+javac Assignment-1_Archit.java
